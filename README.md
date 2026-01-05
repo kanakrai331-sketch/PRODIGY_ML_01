@@ -25,7 +25,10 @@ The model uses numerical attributes such as:
 
 * Number of bathrooms
 
-* By analyzing these features, the model learns patterns that help estimate the market price of a house.
+* By analyzing these features, the model learns patterns that help estimate the market
+  price of a house.
+
+  This task is a part of the **Machine Learning Internship at Prodigy Infotech**
 
 # 📊 **Dataset**
 
@@ -63,10 +66,22 @@ Linear Regression serves as a strong baseline model for price prediction problem
 # 📂 **Project Structure**
 
 The repository is organized as follows:
-Dataset/ – Contains the dataset or dataset reference
-Notebook/ – Contains the Jupyter Notebook for model implementation
-README.md – Project documentation
-requirements.txt – Required Python libraries
+* Dataset/ – Contains the dataset or dataset reference
+* Notebook/ – Contains the Jupyter Notebook for model implementation
+* README.md – Project documentation
+* Requirements.txt – Required Python libraries
+
+## ⚙️ Technologies Used
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Scikit-learn  
+- Jupyter Notebook  
+
+---
+
 
 # 📌  **Acknowledgement**
 
